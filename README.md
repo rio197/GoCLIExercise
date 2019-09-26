@@ -1,2 +1,2 @@
 # GoCLIExercise
-My CLI exercise using GO
+This is my CLI exercise using Golang
